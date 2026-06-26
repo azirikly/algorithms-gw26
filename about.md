@@ -14,7 +14,7 @@ description: Course overview and information for CS 3212.
 
 ## Course Description
 
-An introduction to the design and analysis of algorithms. Topics include asymptotic analysis, divide-and-conquer, sorting, greedy algorithms, dynamic programming, graph algorithms, and an introduction to computational complexity (P vs. NP).
+In this course, you will learn how to design efficient algorithms and rigorously prove their computational performance. We start with the foundational concepts of algorithmic complexity (worst-case and average-case analysis) before mastering key strategies like dynamic programming, sorting, and searching. From there, you will apply advanced data structures like union-find to complex problems and explore essential graph techniques, including shortest paths, depth-first search, and minimum spanning trees. The semester concludes with an introduction to online algorithms and competitive analysis.
 
 ## Instructor
 
