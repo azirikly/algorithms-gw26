@@ -24,6 +24,8 @@ George Washington University
 
 ## Logistics
 
-- **Lectures:** TBD
+Fall semester 08/24/2026–12/08/2026
+
+- **Lectures:** Tuesday and Thursday 11:10AM – 12:25PM
 - **Office Hours:** TBD
 - **Course Platform:** TBD
