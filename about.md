@@ -27,5 +27,6 @@ George Washington University
 Fall semester 08/24/2026–12/08/2026
 
 - **Lectures:** Tuesday and Thursday 11:10AM – 12:25PM
+- **Labs:** Monday and Wednesday TBD
 - **Office Hours:** TBD
 - **Course Platform:** TBD
