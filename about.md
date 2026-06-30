@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About
 nav_order: 1
 description: Course overview and information for CS 3212.
