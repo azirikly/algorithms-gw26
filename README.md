@@ -1,4 +1,4 @@
-# CS 3212 — Introduction to Algorithms
+# CS 3212 — Algorithms
 
 Course website for CS 3212, Fall 2026, George Washington University.
 

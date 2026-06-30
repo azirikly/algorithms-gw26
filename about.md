@@ -5,7 +5,7 @@ nav_order: 1
 description: Course overview and information for CS 3212.
 ---
 
-# CS 3212 — Introduction to Algorithms
+# CS 3212 — Algorithms
 {:.no_toc}
 
 **Fall 2026 · George Washington University**

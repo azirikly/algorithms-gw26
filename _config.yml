@@ -1,7 +1,7 @@
 # Site settings
-title: CS 3212 — Introduction to Algorithms
+title: CS 3212 — Algorithms
 tagline: Fall 2026 · George Washington University
-description: Course website for CS 3212, Introduction to Algorithms, Fall 2026
+description: Course website for CS 3212, Algorithms, Fall 2026
 author: Aya Zirikly
 baseurl: '/algorithms-gw26'
 url: 'https://azirikly.github.io'
