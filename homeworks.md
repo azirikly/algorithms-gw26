@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homeworks
-nav_order: 3
+nav_order: 4
 description: Homework assignments for CS 3212.
 ---
 

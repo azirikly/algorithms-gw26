@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-nav_order: 4
+nav_order: 5
 description: Frequently asked questions for CS 3212.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Modules
-nav_order: 5
+nav_order: 3
 description: Course schedule and modules for CS 3212.
 ---
 
