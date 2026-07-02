@@ -18,9 +18,7 @@ In this course, you will learn how to design efficient algorithms and rigorously
 
 ## Instructor
 
-**Aya Zirikly**  
-Assistant Professor, Department of Computer Science  
-George Washington University  
+**[Aya Zirikly](https://azirikly.github.io/)**
 
 ## Logistics
 
