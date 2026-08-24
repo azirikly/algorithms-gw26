@@ -20,6 +20,15 @@ In this course, you will learn how to design efficient algorithms and rigorously
 
 **[Aya Zirikly](https://azirikly.github.io/)**
 
+### TAs & Graders
+
+*(listed alphabetically by last name)*
+
+- **Edward Bae** — [edward.bae@gwu.edu](mailto:edward.bae@gwu.edu)
+- **Han Chen** — [hanc26@gwu.edu](mailto:hanc26@gwu.edu)
+- **Saad Mankarious** — [saadm@gwu.edu](mailto:saadm@gwu.edu)
+- **Chuhui Qiu** — [chqiu@gwu.edu](mailto:chqiu@gwu.edu)
+
 ## Logistics
 
 Fall semester 08/24/2026–12/08/2026
