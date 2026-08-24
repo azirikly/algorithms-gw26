@@ -44,7 +44,7 @@ description: Course syllabus for CS 3212.
 - Week 13: Solution Spaces, Local Search & Intro to Complexity
 - Week 14: Approximation, Randomized Algorithms & Course Wrap-Up
 
-## Recommended Textbooks
+## Recommended Textbooks and Resources
 
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) by Cormen, Leiserson, Rivest, and Stein (CLRS), 4th Edition, MIT Press
 - [Algorithms Illuminated](https://algorithmsilluminated.org/) by Tim Roughgarden
