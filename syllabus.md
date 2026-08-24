@@ -75,6 +75,10 @@ If you miss a lecture quiz due to a documented, legitimate excuse (e.g., illness
 
 ## Policies
 
+### Campus Resources
+
+See the [Campus Resources](../resources/) page for information on Disability Support Services, Title IX / Office of Equal Opportunity, Mental Health Resources, Emergency Procedures, and Religious Observance.
+
 ### Technology & AI Use Policy
 
 #### In class
