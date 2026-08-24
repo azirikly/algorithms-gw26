@@ -25,7 +25,8 @@ In this course, you will learn how to design efficient algorithms and rigorously
 Fall semester 08/24/2026–12/08/2026
 
 - **Lectures:** Tuesday and Thursday 11:10AM – 12:25PM
-- **Labs:** Monday and Wednesday TBD
 - **Location:** SEH 1300, 1400 & 1450
-- **Office Hours:** TBD
-- **Course Platform:** TBD
+- **Office Hours:** SEH 2880 Thursday 12:30-1:30
+- **Labs:** Monday 11:00AM - 12:20PM or 6:10 - 07:30 Tomp 405
+- **Labs Office Hours:** TBD
+- **Course Platform:** Blackboard, this website, Labs https://github.com/Zirikly-teaching/algorithms-labs-gw26
