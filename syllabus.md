@@ -50,6 +50,10 @@ TBD
 
 ## Policies
 
+### Lecture Attendance
+
+Lecture attendance factors into your participation grade, and is strongly recommended more broadly: frequent in-class quizzes will be given throughout the semester, and exams are closed-book with only handwritten notes allowed (no printed slides). Since your own notes are the only reference you'll have during exams, attending lecture and taking notes consistently is the most reliable way to prepare — missing class means missing both a quiz opportunity and the chance to build usable exam notes, in addition to any participation credit tied to that session.
+
 ### Technology & AI Use Policy
 
 #### In class
