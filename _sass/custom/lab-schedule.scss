@@ -1,0 +1,46 @@
+.lab-schedule {
+  width: 100%;
+  font-size: 1.05rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: $border $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+  margin: $sp-4 0;
+
+  th,
+  td {
+    padding: $sp-2 $sp-4;
+    text-align: left;
+  }
+
+  th {
+    background-color: rgba(0, 0, 0, 0.04);
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border-bottom: $border $border-color;
+  }
+
+  td {
+    border-top: $border $border-color;
+  }
+
+  tr:first-child td {
+    border-top: none;
+  }
+
+  tbody tr:hover td {
+    background-color: rgba(0, 0, 0, 0.03);
+  }
+
+  a {
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

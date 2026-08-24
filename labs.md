@@ -26,9 +26,10 @@ description: Lab sessions for CS 3212.
 
 ## Lab Schedule
 
-| Lab | Date | Link |
-|---|---|---|
-| Lab 0 | 08/24/2026 | [github.com/.../lab0](https://github.com/Zirikly-teaching/algorithms-labs-gw26/tree/main/lab0) |
+| Lab | Date |
+|---|---|
+| [Lab 0](https://github.com/Zirikly-teaching/algorithms-labs-gw26/tree/main/lab0) | 08/24/2026 |
+{: .lab-schedule }
 
 ## Getting Help
 
