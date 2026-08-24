@@ -50,17 +50,30 @@ description: Course syllabus for CS 3212.
 - [Algorithms Illuminated](https://algorithmsilluminated.org/) by Tim Roughgarden
 - [Algorithms](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne, 4th Edition
 
-## Grading
+## Grading Policy
 
-TBD
+| Component | Weight |
+|---|---|
+| Final Exam | 25% |
+| Midterm Exam | 20% |
+| Lecture Quizzes (5 total, no drop) | 20% |
+| Lab Quizzes (6 total, lowest dropped) | 18% |
+| Homework (3 total, 4% each) | 12% |
+| Participation | 5% |
+| **Total** | **100%** |
+{: .styled-table }
+
+### Participation & Attendance
+
+Lecture attendance factors into your **participation grade**, and is strongly recommended more broadly: frequent in-class quizzes will be given throughout the semester, and exams are closed-book with **only handwritten notes** allowed (no printed slides). Since your own notes are the only reference you'll have during exams, attending lecture and taking notes consistently is the most reliable way to prepare — missing class means missing both a quiz opportunity and the chance to build usable exam notes, in addition to any participation credit tied to that session.
+
+**Lab attendance, by contrast, is mandatory** — see the [Labs](../labs/) page for details.
+
+### Excused Absences
+
+If you miss a lecture quiz due to a documented, legitimate excuse (e.g., illness, religious observance, family emergency, or a university-sanctioned activity), please notify the instructor **as soon as possible**, before the missed session (unless circumstances don't allow), and provide documentation. Approved absences will be handled on a case-by-case basis — options may include a makeup quiz, an alternate assignment, or excluding that quiz from your grade calculation.
 
 ## Policies
-
-### Lecture Attendance
-
-Lecture attendance factors into your participation grade, and is strongly recommended more broadly: frequent in-class quizzes will be given throughout the semester, and exams are closed-book with only handwritten notes allowed (no printed slides). Since your own notes are the only reference you'll have during exams, attending lecture and taking notes consistently is the most reliable way to prepare — missing class means missing both a quiz opportunity and the chance to build usable exam notes, in addition to any participation credit tied to that session.
-
-Lab attendance, by contrast, is mandatory — see the [Labs](../labs/) page for details.
 
 ### Technology & AI Use Policy
 
