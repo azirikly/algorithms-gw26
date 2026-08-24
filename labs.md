@@ -24,6 +24,15 @@ description: Lab sessions for CS 3212.
 - You are expected to create a **GitHub** account (if you don't already have one) and push all of your lab code to your algorithms repository throughout the semester. Instructions for setting up your repo will be provided in the first lab.
 - Lab materials, starter code, and instructions are available at: [github.com/Zirikly-teaching/algorithms-labs-gw26](https://github.com/Zirikly-teaching/algorithms-labs-gw26)
 
+## TAs & Graders
+
+*(listed alphabetically by last name)*
+
+- **Edward Bae** — [edward.bae@gwu.edu](mailto:edward.bae@gwu.edu)
+- **Han Chen** — [hanc26@gwu.edu](mailto:hanc26@gwu.edu)
+- **Saad Mankarious** — [saadm@gwu.edu](mailto:saadm@gwu.edu)
+- **Chuhui Qiu** — [chqiu@gwu.edu](mailto:chqiu@gwu.edu)
+
 ## Lab Schedule
 
 | Lab | Date |

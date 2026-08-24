@@ -16,6 +16,19 @@ description: Course syllabus for CS 3212.
 
 ---
 
+## Instructor
+
+**[Aya Zirikly](https://azirikly.github.io/)**
+
+### TAs & Graders
+
+*(listed alphabetically by last name)*
+
+- **Edward Bae** — [edward.bae@gwu.edu](mailto:edward.bae@gwu.edu)
+- **Han Chen** — [hanc26@gwu.edu](mailto:hanc26@gwu.edu)
+- **Saad Mankarious** — [saadm@gwu.edu](mailto:saadm@gwu.edu)
+- **Chuhui Qiu** — [chqiu@gwu.edu](mailto:chqiu@gwu.edu)
+
 ## Topics
 
 **Module 1: Core Foundations, Sorting & Tree Structures**
