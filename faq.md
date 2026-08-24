@@ -41,7 +41,7 @@ No. Quizzes and lab quizzes are closed-book and closed-technology. Exams are clo
 AI tools are **not allowed during lab sessions** at all, for any purpose. For homework, AI tools may be used only as a *tutor* (e.g., to explain a concept) — not to generate code on your behalf — and any use **must be disclosed**. Undisclosed AI use confirmed after the fact results in a zero for the entire assignment and may be reported as an academic integrity violation. Full policy: [Use of AI/LLM Tools](../syllabus/#use-of-aillm-tools).
 
 **Is this a university-wide rule or just for this course?**
-Both. GW's Office of the Provost prohibits submitting AI-generated content for evaluation by default, unless an instructor explicitly grants permission — this course's policy is a specific application of that rule and the [GW Code of Academic Integrity](https://students.gwu.edu/code-academic-integrity-web).
+Both. GW's Office of the Provost prohibits submitting AI-generated content for evaluation by default, unless an instructor explicitly grants permission, per the [Generative AI Guidelines](https://provost.gwu.edu/guidelines-using-generative-artificial-intelligence-connection-academic-work-0) — this course's policy is a specific application of that rule and the [GW Code of Academic Integrity](https://students.gwu.edu/code-academic-integrity).
 
 ---
 
