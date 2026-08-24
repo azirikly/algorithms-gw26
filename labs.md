@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Labs
-nav_order: 5
+nav_order: 4
 description: Lab sessions for CS 3212.
 ---
 
