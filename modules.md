@@ -12,7 +12,7 @@ description: Course schedule and modules for CS 3212.
 
 ## Module 1: Core Foundations, Sorting & Tree Structures
 
-### Week 1: Introduction, Efficiency & Code Profiling
+### Week 1: Introduction, Efficiency & Code Profiling — [Slides](../assets/slides/Module1_slides_Zirikly_20260824.pdf)
 - Introduction to algorithmic thinking and problem-solving framework
 - Formal definitions and intuition behind Big-O, Big-Omega, and Big-Theta notation
 - Best-case, worst-case, and average-case complexity analysis
