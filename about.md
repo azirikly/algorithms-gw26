@@ -42,7 +42,7 @@ Fall semester 08/24/2026–12/08/2026
   - <details class="ta-hours-details"><summary>Han Chen</summary><div class="ta-hours-content">Monday: SEH 4th floor, 12:45 - 2:00 PM<br>Wednesday: By appointment (before 6 PM)<br>Thursday: SEH 4th floor, 5:00 - 7:00 PM</div></details>
   - <details class="ta-hours-details"><summary>Saad Mankarious</summary><div class="ta-hours-content">Monday: Tompkins 405, 12:20 - 2:00 PM</div></details>
   - <details class="ta-hours-details"><summary>Chuhui Qiu</summary><div class="ta-hours-content">Monday: Tompkins 405, 7:30 - 8:30 PM<br>Tuesday: SEH 1400, 12:25 - 1:25 PM<br>Thursday: SEH 1400, 12:25 - 1:25 PM</div></details>
-- **Course Platform:** Blackboard, this website, Labs https://github.com/Zirikly-teaching/algorithms-labs-gw26
+- **Course Platform:** Blackboard, this website, [Labs](https://github.com/Zirikly-teaching/algorithms-labs-gw26)
 
 <script>
 document.querySelectorAll('.ta-hours-details').forEach(function (d) {

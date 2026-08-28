@@ -32,7 +32,7 @@ summary {
 .ta-hours-details {
   display: inline-block;
   position: relative;
-  margin: 0;
+  margin: 0 !important;
 
   summary {
     all: unset;
