@@ -14,7 +14,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Week 1: Introduction, Efficiency & Code Profiling
 
-**Slides:** [Aug 25](../assets/slides/Module1_slides_Zirikly_20260825.pdf) · Aug 27
+**Slides:** [Aug 25](../assets/slides/Module1_slides_Zirikly_20260825.pdf) · [Aug 27](../assets/slides/Module1_slides_Zirikly_20260827.pdf)
 
 - Introduction to algorithmic thinking and problem-solving framework
 - Formal definitions and intuition behind Big-O, Big-Omega, and Big-Theta notation
