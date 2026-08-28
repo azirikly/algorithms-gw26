@@ -43,3 +43,20 @@ Fall semester 08/24/2026–12/08/2026
   - <details class="ta-hours-details"><summary>Saad Mankarious</summary><div class="ta-hours-content">Monday: Tompkins 405, 12:20 - 2:00 PM</div></details>
   - <details class="ta-hours-details"><summary>Chuhui Qiu</summary><div class="ta-hours-content">Monday: Tompkins 405, 7:30 - 8:30 PM<br>Tuesday: SEH 1400, 12:25 - 1:25 PM<br>Thursday: SEH 1400, 12:25 - 1:25 PM</div></details>
 - **Course Platform:** Blackboard, this website, Labs https://github.com/Zirikly-teaching/algorithms-labs-gw26
+
+<script>
+document.querySelectorAll('.ta-hours-details').forEach(function (d) {
+  d.addEventListener('toggle', function () {
+    if (d.open) {
+      document.querySelectorAll('.ta-hours-details[open]').forEach(function (other) {
+        if (other !== d) other.removeAttribute('open');
+      });
+    }
+  });
+});
+document.addEventListener('click', function (e) {
+  document.querySelectorAll('.ta-hours-details[open]').forEach(function (d) {
+    if (!d.contains(e.target)) d.removeAttribute('open');
+  });
+});
+</script>
