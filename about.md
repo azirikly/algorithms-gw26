@@ -37,5 +37,9 @@ Fall semester 08/24/2026–12/08/2026
 - **Location:** SEH 1300, 1400 & 1450
 - **Office Hours:** SEH 2880 Thursday 12:30-1:30
 - **Labs:** Monday 11:00AM - 12:20PM or 6:10PM - 07:30PM Tomp 405
-- **Labs Office Hours:** TBD
+- **Labs Office Hours:**
+  - <span class="ta-hours" title="Tuesday: SEH 4th floor, 5:00 - 8:00 PM&#10;Thursday: SEH 4th floor, 5:00 - 8:00 PM&#10;Friday: SEH 4th floor, 12:00 - 2:30 PM">Edward Bae</span>
+  - <span class="ta-hours" title="Monday: SEH 4th floor, 12:45 - 2:00 PM&#10;Wednesday: By appointment (before 6 PM)&#10;Thursday: SEH 4th floor, 5:00 - 7:00 PM">Han Chen</span>
+  - <span class="ta-hours" title="Monday: Tompkins 405, 12:20 - 2:00 PM">Saad Mankarious</span>
+  - <span class="ta-hours" title="Monday: Tompkins 405, 7:30 - 8:30 PM&#10;Tuesday: SEH 1400, 12:25 - 1:25 PM&#10;Thursday: SEH 1400, 12:25 - 1:25 PM">Chuhui Qiu</span>
 - **Course Platform:** Blackboard, this website, Labs https://github.com/Zirikly-teaching/algorithms-labs-gw26

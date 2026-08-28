@@ -29,6 +29,11 @@ summary {
   width: 100%;
 }
 
+.ta-hours {
+  border-bottom: 1px dotted currentColor;
+  cursor: help;
+}
+
 .main-content {
   dl {
     display: block;
