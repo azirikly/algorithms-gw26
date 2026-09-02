@@ -35,13 +35,15 @@ Fall semester 08/24/2026–12/08/2026
 
 - **Lectures:** Tuesday and Thursday 11:10AM – 12:25PM
 - **Location:** SEH 1300, 1400 & 1450
-- **Office Hours:** SEH 2880 Thursday 12:30-1:30
+- **Office Hours:** SEH 2880 Thursday 12:30-1:30 · Friday 2:15-3:00 PM Zoom [provided in Blackboard]
 - **Labs:** Monday 11:00AM - 12:20PM or 6:10PM - 07:30PM Tomp 405
 - **Labs Office Hours:**
-  - <details class="ta-hours-details"><summary>Edward Bae</summary><div class="ta-hours-content">Tuesday: SEH 4th floor, 5:00 - 8:00 PM<br>Thursday: SEH 4th floor, 5:00 - 8:00 PM<br>Friday: SEH 4th floor, 12:00 - 2:30 PM</div></details>
-  - <details class="ta-hours-details"><summary>Han Chen</summary><div class="ta-hours-content">Monday: SEH 4th floor, 12:45 - 2:00 PM<br>Wednesday: By appointment (before 6 PM)<br>Thursday: SEH 4th floor, 5:00 - 7:00 PM</div></details>
-  - <details class="ta-hours-details"><summary>Saad Mankarious</summary><div class="ta-hours-content">Monday: Tompkins 405, 12:20 - 2:00 PM</div></details>
-  - <details class="ta-hours-details"><summary>Chuhui Qiu</summary><div class="ta-hours-content">Monday: Tompkins 405, 7:30 - 8:30 PM<br>Tuesday: SEH 1400, 12:25 - 1:25 PM<br>Thursday: SEH 1400, 12:25 - 1:25 PM</div></details>
+<ul class="ta-hours-list">
+<li><details class="ta-hours-details"><summary>Edward Bae</summary><div class="ta-hours-content">Tuesday: SEH 4th floor, 5:00 - 8:00 PM<br>Thursday: SEH 4th floor, 5:00 - 8:00 PM<br>Friday: SEH 4th floor, 12:00 - 2:30 PM</div></details></li>
+<li><details class="ta-hours-details"><summary>Han Chen</summary><div class="ta-hours-content">Monday: SEH 4th floor, 12:45 - 2:00 PM<br>Wednesday: By appointment (before 6 PM)<br>Thursday: SEH 4th floor, 5:00 - 7:00 PM</div></details></li>
+<li><details class="ta-hours-details"><summary>Saad Mankarious</summary><div class="ta-hours-content">Monday: Tompkins 405, 12:20 - 2:00 PM</div></details></li>
+<li><details class="ta-hours-details"><summary>Chuhui Qiu</summary><div class="ta-hours-content">Monday: Tompkins 405, 7:30 - 8:30 PM<br>Tuesday: SEH 1400, 12:25 - 1:25 PM<br>Thursday: SEH 1400, 12:25 - 1:25 PM</div></details></li>
+</ul>
 - **Course Platform:** Blackboard, this website, [Labs](https://github.com/Zirikly-teaching/algorithms-labs-gw26)
 
 <script>

@@ -21,6 +21,9 @@ description: Course schedule and modules for CS 3212.
 - Best-case, worst-case, and average-case complexity analysis
 
 ### Week 2: Divide-and-Conquer & Comparison Sorting
+
+**Slides:** [Sep 1](../assets/slides/Module2_Algorithms_Zirikly_20260901.pdf)
+
 - The divide-and-conquer strategy template
 - Internal mechanics and trace of Mergesort and Quicksort
 - Solving recurrence relations using the Master Theorem and recursion trees
