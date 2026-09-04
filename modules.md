@@ -22,7 +22,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Week 2: Divide-and-Conquer & Comparison Sorting
 
-**Slides:** [Sep 1](../assets/slides/Module2_Algorithms_Zirikly_20260901.pdf)
+**Slides:** [Sep 1](../assets/slides/Module2_Algorithms_Zirikly_20260901.pdf) · [Sep 3](../assets/slides/Module2_Algorithms_Zirikly_20260903.pdf)
 
 - The divide-and-conquer strategy template
 - Internal mechanics and trace of Mergesort and Quicksort
