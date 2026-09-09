@@ -30,6 +30,9 @@ description: Course schedule and modules for CS 3212.
 - The information-theoretic lower bound (Ω(n log n)) for comparison-based sorting
 
 ### Week 3: Heaps, Heapsort & Linear-Time Sorting
+
+**Slides:** [Sep 8](../assets/slides/Module2_3_Algorithms_Zirikly_20260908.pdf)
+
 - Representing binary trees efficiently using arrays
 - Building and maintaining Max-Heaps and Min-Heaps
 - The Heapsort algorithm structure
