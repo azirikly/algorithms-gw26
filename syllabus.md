@@ -73,6 +73,21 @@ Lecture attendance factors into your **participation grade**, and is strongly re
 
 If you miss a lecture quiz due to a documented, legitimate excuse (e.g., illness, religious observance, family emergency, or a university-sanctioned activity), please notify the instructor **as soon as possible**, before the missed session (unless circumstances don't allow), and provide documentation. Approved absences will be handled on a case-by-case basis — options may include a makeup quiz, an alternate assignment, or excluding that quiz from your grade calculation.
 
+## Quiz & Exam Schedule
+
+Dates are subject to change; any updates will be announced in class and reflected here.
+
+| Assessment | Date | Day | What's Included |
+|---|---|---|---|
+| Quiz 1 (Lecture) | 9/10 | Thu | Week 1 & 2 slides |
+| Quiz 2 (Lecture) | 9/22 | Tue | |
+| Quiz 3 (Lecture) | 10/8 | Thu | |
+| **Midterm** | 10/15 | Thu | |
+| Quiz 4 (Lecture) | 11/5 | Thu | |
+| Quiz 5 (Lecture) | 11/19 | Thu | |
+| **Final** | 12/15 | Tue | |
+{: .styled-table }
+
 ## Policies
 
 ### Campus Resources
