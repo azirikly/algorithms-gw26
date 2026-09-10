@@ -41,8 +41,10 @@ summary {
 }
 
 .ta-hours-name {
+  display: inline-block;
+  min-width: 10em;
   font-weight: bold;
-  margin-right: 2em;
+  padding-right: 1.5em;
 }
 
 .ta-hours-details {
