@@ -42,7 +42,7 @@ summary {
 
 .ta-hours-name {
   font-weight: bold;
-  margin-right: 0.5em;
+  margin-right: 2em;
 }
 
 .ta-hours-details {
@@ -52,6 +52,8 @@ summary {
 
   summary {
     all: unset;
+    color: #0645ad;
+    font-size: 0.8em;
     border-bottom: 1px dotted currentColor;
     cursor: pointer;
   }
