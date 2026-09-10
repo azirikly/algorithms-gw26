@@ -32,11 +32,16 @@ summary {
 .ta-hours-list {
   list-style: none;
   margin: 0 !important;
-  padding: 0 0 0 4em !important;
+  padding: 0 !important;
+  margin-left: 6em !important;
 
   li {
     margin: 0 0 0.35em 0 !important;
     padding: 0 !important;
+  }
+
+  li::before {
+    content: none !important;
   }
 }
 
