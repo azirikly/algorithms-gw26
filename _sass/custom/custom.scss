@@ -35,9 +35,14 @@ summary {
   padding: 0 !important;
 
   li {
-    margin: 0 !important;
+    margin: 0 0 0.35em 0 !important;
     padding: 0 !important;
   }
+}
+
+.ta-hours-name {
+  font-weight: bold;
+  margin-right: 0.5em;
 }
 
 .ta-hours-details {
