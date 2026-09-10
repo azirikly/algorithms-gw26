@@ -75,7 +75,7 @@ If you miss a lecture quiz due to a documented, legitimate excuse (e.g., illness
 
 ## Quiz & Exam Schedule
 
-Dates are subject to change; any updates will be announced in class and reflected here.
+All dates listed are subject to change at the instructor's discretion. Please check back for updates.
 
 | Assessment | Date | Day | What's Included |
 |---|---|---|---|
