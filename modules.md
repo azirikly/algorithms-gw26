@@ -31,7 +31,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Week 3: Heaps, Heapsort & Linear-Time Sorting
 
-**Slides:** [Sep 8](../assets/slides/Module2_3_Algorithms_Zirikly_20260908.pdf)
+**Slides:** [Sep 8](../assets/slides/Module2_3_Algorithms_Zirikly_20260908.pdf) · [Sep 10](../assets/slides/Week3_Module3_Algorithms_Zirikly_20260910.pdf)
 
 - Representing binary trees efficiently using arrays
 - Building and maintaining Max-Heaps and Min-Heaps
