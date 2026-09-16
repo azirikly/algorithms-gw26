@@ -12,7 +12,7 @@ description: Course schedule and modules for CS 3212.
 
 ## Module 1: Core Foundations, Sorting & Tree Structures
 
-### Week 1: Introduction, Efficiency & Code Profiling
+### Introduction, Efficiency & Code Profiling
 
 **Slides:** [Aug 25](../assets/slides/Module1_slides_Zirikly_20260825.pdf) · [Aug 27](../assets/slides/Module1_slides_Zirikly_20260827.pdf)
 
@@ -20,7 +20,7 @@ description: Course schedule and modules for CS 3212.
 - Formal definitions and intuition behind Big-O, Big-Omega, and Big-Theta notation
 - Best-case, worst-case, and average-case complexity analysis
 
-### Week 2: Divide-and-Conquer & Comparison Sorting
+### Divide-and-Conquer & Comparison Sorting
 
 **Slides:** [Sep 1](../assets/slides/Module2_Algorithms_Zirikly_20260901.pdf) · [Sep 3](../assets/slides/Module2_Algorithms_Zirikly_20260903.pdf)
 
@@ -29,9 +29,9 @@ description: Course schedule and modules for CS 3212.
 - Solving recurrence relations using the Master Theorem and recursion trees
 - The information-theoretic lower bound (Ω(n log n)) for comparison-based sorting
 
-### Week 3: Heaps, Heapsort & Linear-Time Sorting
+### Heaps, Heapsort & Linear-Time Sorting
 
-**Slides:** [Sep 8](../assets/slides/Module2_3_Algorithms_Zirikly_20260908.pdf) · [Sep 10](../assets/slides/Algorithms_Zirikly_20260910.pdf)
+**Slides:** [Sep 8](../assets/slides/Module2_3_Algorithms_Zirikly_20260908.pdf) · [Sep 10](../assets/slides/Algorithms_Zirikly_20260910.pdf) · [Sep 15](../assets/slides/Week4_Zirikly_20260915_Website.pdf)
 
 - Representing binary trees efficiently using arrays
 - Building and maintaining Max-Heaps and Min-Heaps
@@ -39,8 +39,6 @@ description: Course schedule and modules for CS 3212.
 - Breaking the comparison sorting barrier using Bucketsort
 
 ### Week 4: Ordered Search & Balanced Binary Trees
-
-**Slides:** [Sep 15](../assets/slides/Week4_Zirikly_20260915_Website.pdf)
 
 - Review of Binary Search Trees (BST) insertion and lookup
 - The mechanics of deleting nodes from a BST
