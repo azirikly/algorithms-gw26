@@ -38,14 +38,14 @@ description: Course schedule and modules for CS 3212.
 - The Heapsort algorithm structure
 - Breaking the comparison sorting barrier using Bucketsort
 
-### Week 4: Ordered Search & Balanced Binary Trees
+### Ordered Search & Balanced Binary Trees
 
 - Review of Binary Search Trees (BST) insertion and lookup
 - The mechanics of deleting nodes from a BST
 - Structural imbalance in trees and its impact on runtime
 - Restoring height balance invariants using structural rotations in AVL Trees
 
-### Week 5: Advanced Search Structures: Multiway & Self-Adjusting Trees
+### Advanced Search Structures: Multiway & Self-Adjusting Trees
 - Multiway search trees (B-Trees and B+ Trees) used in database disk storage
 - Self-adjusting binary search trees (Splay Trees)
 - Introduction to amortized analysis (evaluating the average cost of operations over time)
