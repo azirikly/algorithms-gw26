@@ -39,6 +39,9 @@ description: Course schedule and modules for CS 3212.
 - Breaking the comparison sorting barrier using Bucketsort
 
 ### Week 4: Ordered Search & Balanced Binary Trees
+
+**Slides:** [Sep 15](../assets/slides/Week4_Zirikly_20260915_Website.pdf)
+
 - Review of Binary Search Trees (BST) insertion and lookup
 - The mechanics of deleting nodes from a BST
 - Structural imbalance in trees and its impact on runtime
