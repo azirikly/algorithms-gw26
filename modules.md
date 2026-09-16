@@ -54,17 +54,17 @@ description: Course schedule and modules for CS 3212.
 
 ## Module 2: Hashing, Strings & Graph Algorithms
 
-### Week 6: Key Lookup, Hashing & Tries
+### Key Lookup, Hashing & Tries
 - Direct addressing vs. hashing frameworks
 - Designing effective hash functions and handling data collisions
 - Digital search trees and Tries for rapid prefix processing
 
-### Week 7: Pattern Search & String Matching
+### Pattern Search & String Matching
 - The string search problem definition
 - The Rabin-Karp algorithm using rolling hashes
 - The Knuth-Morris-Pratt (KMP) algorithm using prefix functions to skip redundant shifts
 
-### Week 8: Graph Foundations & Traversals
+### Graph Foundations & Traversals
 - Graph representations (Adjacency Matrices vs. Adjacency Lists)
 - Breadth-First Search (BFS) for shortest paths in unweighted graphs
 - Depth-First Search (DFS) mechanics and edge classifications
@@ -74,25 +74,25 @@ description: Course schedule and modules for CS 3212.
 
 ## Module 3: Optimization & Sequence Modeling
 
-### Week 9: Minimum Spanning Trees & Shortest Paths
+### Minimum Spanning Trees & Shortest Paths
 - The greedy algorithm design paradigm and greedy choice invariants
 - Kruskal's algorithm (utilizing the Union-Find data structure with path compression)
 - Prim's algorithm for building minimum spanning trees
 - Dijkstra's algorithm for single-source shortest paths on weighted graphs
 
-### Week 10: Network Flow & Dynamic Programming Foundations
+### Network Flow & Dynamic Programming Foundations
 - Flow networks, capacities, cuts, and the Edmonds-Karp Max-Flow algorithm
 - Introduction to Dynamic Programming (DP) core principles
 - Overlapping subproblems and optimal substructure properties
 - Memoization (top-down caching) vs. Tabulation (bottom-up table building) via the 0-1 Knapsack problem
 
-### Week 11: Advanced Dynamic Programming & Sequence Alignment
+### Advanced Dynamic Programming & Sequence Alignment
 - Measuring similarity between sequences using DP
 - Longest Common Subsequence (LCS) tracking
 - Edit Distance (Levenshtein Distance) for text correction and sequence matching
 - Finding shortest paths between all pairs of nodes using the Floyd-Warshall algorithm
 
-### Week 12: Special Topic — Algorithms in Natural Language Processing & Health Informatics
+### Special Topic — Algorithms in Natural Language Processing & Health Informatics
 - Utilizing pattern search and sequence alignment to parse unstructured clinical notes and social media data
 - Modeling token sequences and handling missing/noisy data fields
 - Decoding optimal hidden states using the Viterbi Algorithm over sequence models
@@ -101,13 +101,13 @@ description: Course schedule and modules for CS 3212.
 
 ## Module 4: Intractability & Advanced Paradigms
 
-### Week 13: Solution Spaces, Local Search & Intro to Complexity
+### Solution Spaces, Local Search & Intro to Complexity
 - Finding high-quality solutions when exact mathematical solutions take too long
 - Exploring solution spaces using local neighborhoods and randomized walks
 - Greedy Local Search and Simulated Annealing meta-heuristics
 - Defining what makes a problem computationally hard (P vs. NP complexity classes)
 
-### Week 14: Approximation, Randomized Algorithms & Course Wrap-Up
+### Approximation, Randomized Algorithms & Course Wrap-Up
 - Designing Approximation Algorithms with verifiable performance guarantees to cope with hard problems
 - Understanding the difference between Las Vegas and Monte Carlo randomized algorithms
 - Course synthesis and algorithmic paradigm selection matrix
