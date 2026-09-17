@@ -18,7 +18,18 @@ In this course, you will learn how to design efficient algorithms and rigorously
 
 ## Instructor
 
-**[Aya Zirikly](https://azirikly.github.io/)**
+**[Aya Zirikly](https://azirikly.github.io/)** — <a href="#" id="instructor-contact-link">Contact me</a>
+
+<script>
+(function () {
+  var user = ['a', 'y', 'a', '.', 'z', 'i', 'r', 'i', 'k', 'l', 'y'].join('');
+  var domain = ['g', 'w', 'u', '.', 'e', 'd', 'u'].join('');
+  var link = document.getElementById('instructor-contact-link');
+  if (link) {
+    link.setAttribute('href', 'mailto:' + user + '@' + domain);
+  }
+})();
+</script>
 
 ### TAs & Graders
 
