@@ -80,7 +80,7 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 | Assessment | Date | Day | What's Included |
 |---|---|---|---|
 | Quiz 1 (Lecture) | 9/10 | Thu | Week 1 & 2 slides |
-| Quiz 2 (Lecture) | 9/22 | Tue | |
+| Quiz 2 (Lecture) | 9/24 | Thu | |
 | Quiz 3 (Lecture) | 10/8 | Thu | |
 | **Midterm** | 10/15 | Thu | |
 | Quiz 4 (Lecture) | 11/5 | Thu | |
