@@ -40,7 +40,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Ordered Search & Balanced Binary Trees
 
-**Slides:** [Sep 17](../assets/slides/Week4_Zirikly_20260917_Website.pdf)
+**Slides:** [Sep 17](../assets/slides/Week4_Zirikly_20260917_Website.pdf) · [Sep 22](../assets/slides/Zirikly_20260922_website.pdf)
 
 - Review of Binary Search Trees (BST) insertion and lookup
 - The mechanics of deleting nodes from a BST
