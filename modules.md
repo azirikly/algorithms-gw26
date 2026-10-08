@@ -61,7 +61,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Key Lookup, Hashing & Tries
 
-**Slides:** [Oct 6](../assets/slides/Zirikly_20261006_website.pdf)
+**Slides:** [Oct 6](../assets/slides/Zirikly_20261006_website.pdf) · [Oct 8](../assets/slides/Zirikly_20261008_website.pdf)
 
 - Direct addressing vs. hashing frameworks
 - Designing effective hash functions and handling data collisions
