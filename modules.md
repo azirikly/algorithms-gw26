@@ -68,6 +68,9 @@ description: Course schedule and modules for CS 3212.
 - Digital search trees and Tries for rapid prefix processing
 
 ### Pattern Search & String Matching
+
+**Slides:** [Oct 20](../assets/slides/Zirikly_20261020_website.pdf)
+
 - The string search problem definition
 - The Rabin-Karp algorithm using rolling hashes
 - The Knuth-Morris-Pratt (KMP) algorithm using prefix functions to skip redundant shifts
