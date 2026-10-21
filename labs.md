@@ -78,6 +78,6 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 | Assignment | Assigned | Due Date | Active Window | Topic Coverage |
 |---|---|---|---|---|
 | Homework 1 | 9/21 (Mon) | 10/8 (Thu) @ 23:59 | Wks 5–7 (17 days) | Tree Structures: BST Operations, AVL Cascade Rebalance, Order-Statistic & Splay Trees |
-| Homework 2 | 10/15 (Thu) | 10/29 (Thu) @ 23:59 | Wks 8–10 (14 days) | Graphs & Shortest Paths: BFS/DFS, Topo Sort, DSU, MST (Kruskal/Prim) & Dijkstra |
+| Homework 2 | 10/15 (Thu) | 11/6 (Fri) @ 23:59 | Wks 8–11 (22 days) | Graphs & Shortest Paths: BFS/DFS, Topo Sort, DSU, MST (Kruskal/Prim) & Dijkstra |
 | Homework 3 | 11/5 (Thu) | 11/19 (Thu) @ 23:59 | Wks 11–13 (14 days) | Dynamic Programming: 0-1 Knapsack, LCS, Edit Distance, Floyd-Warshall & Viterbi Trellis |
 {: .styled-table }
