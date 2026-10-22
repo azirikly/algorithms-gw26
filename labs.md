@@ -22,7 +22,7 @@ description: Lab sessions for CS 3212.
 
 - Labs will be conducted in **Python**.
 - You are expected to create a **GitHub** account (if you don't already have one) and push all of your lab code to your algorithms repository throughout the semester. Instructions for setting up your repo will be provided in the first lab.
-- Lab materials, starter code, and instructions are available at: [github.com/Zirikly-teaching/algorithms-labs-gw26](https://github.com/Zirikly-teaching/algorithms-labs-gw26)
+- Lab materials, homeworks, starter code, and instructions are available at: [github.com/Zirikly-teaching/algorithms-labs-gw26](https://github.com/Zirikly-teaching/algorithms-labs-gw26)
 
 ## Instructor
 
