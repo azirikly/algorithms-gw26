@@ -69,13 +69,16 @@ description: Course schedule and modules for CS 3212.
 
 ### Pattern Search & String Matching
 
-**Slides:** [Oct 20](../assets/slides/Zirikly_20261020_website.pdf)
+**Slides:** [Oct 20](../assets/slides/Zirikly_20261020_website.pdf) · [Oct 22](../assets/slides/Zirikly_20261022_website.pdf)
 
 - The string search problem definition
 - The Rabin-Karp algorithm using rolling hashes
 - The Knuth-Morris-Pratt (KMP) algorithm using prefix functions to skip redundant shifts
 
 ### Graph Foundations & Traversals
+
+**Slides:** [Oct 22](../assets/slides/Zirikly_20261022_website.pdf)
+
 - Graph representations (Adjacency Matrices vs. Adjacency Lists)
 - Breadth-First Search (BFS) for shortest paths in unweighted graphs
 - Depth-First Search (DFS) mechanics and edge classifications
