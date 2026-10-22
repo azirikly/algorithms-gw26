@@ -67,7 +67,7 @@ Six, given during lab sessions, with your lowest score dropped. See [Labs](../la
 ## Homeworks
 
 **How many homework assignments are there?**
-Three, over the course of the semester. They'll be posted on the [Homeworks](../homeworks/) page as they're assigned.
+Three, over the course of the semester. See the homework schedule on the [Labs](../labs/#homework-assignments) page.
 
 **Do I need to disclose AI use on homework?**
 Yes — see [Use of AI/LLM Tools](../syllabus/#use-of-aillm-tools) above.
