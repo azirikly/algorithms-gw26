@@ -77,7 +77,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Graph Foundations & Traversals
 
-**Slides:** [Oct 22](../assets/slides/Zirikly_20261022_website.pdf)
+**Slides:** [Oct 22](../assets/slides/Zirikly_20261022_website.pdf) · [Oct 27](../assets/slides/Zirikly_20261027_website.pdf)
 
 - Graph representations (Adjacency Matrices vs. Adjacency Lists)
 - Breadth-First Search (BFS) for shortest paths in unweighted graphs
