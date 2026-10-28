@@ -37,9 +37,9 @@ description: Course syllabus for CS 3212.
 - Week 9: Minimum Spanning Trees & Shortest Paths
 - Week 10: Network Flow & Dynamic Programming Foundations
 - Week 11: Advanced Dynamic Programming & Sequence Alignment
-- Week 12: Special Topic — Algorithms in NLP & Health Informatics
+- Week 12: Special Topic — Algorithms in NLP & Health Informatics [if time allows]
 
-**Module 4: Intractability & Advanced Paradigms**
+**Module 4: Intractability & Advanced Paradigms** [if time allows]
 
 - Week 13: Solution Spaces, Local Search & Intro to Complexity
 - Week 14: Approximation, Randomized Algorithms & Course Wrap-Up
