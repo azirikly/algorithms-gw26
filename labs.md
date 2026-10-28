@@ -77,7 +77,7 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 
 | Assignment | Assigned | Due Date | Topic Coverage |
 |---|---|---|---|
-| Homework 1 | 9/21 (Mon) | 10/8 (Thu) @ 23:59 | Tree Structures: BST Operations, AVL Cascade Rebalance, Order-Statistic & Splay Trees |
+| Homework 1 | 9/21 (Mon) | 10/8 (Thu) @ 23:59 EST | Tree Structures: BST Operations, AVL Cascade Rebalance, Order-Statistic & Splay Trees |
 | Homework 2 | 10/23 (Fri) | 11/11 (Wed) @ 23:59 EST | Key Lookup, Hashing & Tries; Pattern Search & String Matching |
-| Homework 3 | 11/10 (Tue) | 12/2 (Wed) @ 23:59 | Dynamic Programming: 0-1 Knapsack, LCS, Edit Distance, Floyd-Warshall & Viterbi Trellis |
+| Homework 3 | 11/10 (Tue) | 12/2 (Wed) @ 23:59 EST | Dynamic Programming: 0-1 Knapsack, LCS, Edit Distance, Floyd-Warshall & Viterbi Trellis |
 {: .styled-table }
