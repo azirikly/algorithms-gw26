@@ -85,7 +85,7 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 | **Midterm** | 10/15 | Thu | Everything up to 10/15 |
 | Quiz 4 (Lecture) | 11/5 | Thu | Slides 10/20, 10/22, 10/27, 10/29 |
 | Quiz 5 (Lecture) | 11/19 | Thu | |
-| **Final** | 12/15 (tentative) | Tue | |
+| **Final** | 12/15 | Tue | |
 {: .styled-table }
 
 ## Policies
