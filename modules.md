@@ -90,7 +90,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Minimum Spanning Trees & Shortest Paths
 
-**Slides:** [Nov 3](../assets/slides/Zirikly_20261103_website.pdf) · Nov 5 (class dismissed after quiz due to fumes)
+**Slides:** [Nov 3](../assets/slides/Zirikly_20261103_website.pdf) · Nov 5 (class dismissed after quiz due to fumes) · [Nov 10](../assets/slides/Zirikly_20261110_website.pdf)
 
 - The greedy algorithm design paradigm and greedy choice invariants
 - Kruskal's algorithm (utilizing the Union-Find data structure with path compression)
