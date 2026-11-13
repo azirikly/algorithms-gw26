@@ -90,7 +90,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Minimum Spanning Trees & Shortest Paths
 
-**Slides:** [Nov 3](../assets/slides/Zirikly_20261103_website.pdf) · Nov 5 (class dismissed after quiz due to fumes) · [Nov 10](../assets/slides/Zirikly_20261110_website.pdf) · [Nov 12](../assets/slides/Zirikly_20261112_website.pdf)
+**Slides:** [Nov 3](../assets/slides/Zirikly_20261103_website.pdf) · Nov 5 (class dismissed after quiz due to fumes) · [Nov 10](../assets/slides/Zirikly_20261110_website.pdf)
 
 - The greedy algorithm design paradigm and greedy choice invariants
 - Kruskal's algorithm (utilizing the Union-Find data structure with path compression)
@@ -98,6 +98,9 @@ description: Course schedule and modules for CS 3212.
 - Dijkstra's algorithm for single-source shortest paths on weighted graphs
 
 ### Network Flow & Dynamic Programming Foundations
+
+**Slides:** [Nov 12](../assets/slides/Zirikly_20261112_website.pdf)
+
 - Flow networks, capacities, cuts, and the Edmonds-Karp Max-Flow algorithm
 - Introduction to Dynamic Programming (DP) core principles
 - Overlapping subproblems and optimal substructure properties
