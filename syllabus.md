@@ -84,7 +84,7 @@ All dates listed are subject to change at the instructor's discretion. Please ch
 | Quiz 3 (Lecture) | 10/8 | Thu | Slides 09/17, 09/22, 09/29, 10/01 |
 | **Midterm** | 10/15 | Thu | Everything up to 10/15 |
 | Quiz 4 (Lecture) | 11/5 | Thu | Slides 10/20, 10/22, 10/27, 10/29 |
-| Quiz 5 (Lecture) | 11/19 | Thu | |
+| Quiz 5 (Lecture) | 12/1 | Tue | Slides 11/03, 11/05 (class was dismissed), 11/10, 11/12, 11/17 |
 | **Final** | 12/15, 10:20am–12:20pm ([exam schedule](https://my.gwu.edu/mod/exam_schedules/)) | Tue | |
 {: .styled-table }
 
