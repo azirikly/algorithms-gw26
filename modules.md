@@ -99,7 +99,7 @@ description: Course schedule and modules for CS 3212.
 
 ### Network Flow & Dynamic Programming Foundations
 
-**Slides:** [Nov 12](../assets/slides/Zirikly_20261112_website.pdf)
+**Slides:** [Nov 12](../assets/slides/Zirikly_20261112_website.pdf) · [Nov 17](../assets/slides/Zirikly_20261117_website.pdf)
 
 - Flow networks, capacities, cuts, and the Edmonds-Karp Max-Flow algorithm
 - Introduction to Dynamic Programming (DP) core principles
