@@ -115,11 +115,6 @@ description: Course schedule and modules for CS 3212.
 - Edit Distance (Levenshtein Distance) for text correction and sequence matching
 - Finding shortest paths between all pairs of nodes using the Floyd-Warshall algorithm
 
-### Special Topic — Algorithms in Natural Language Processing & Health Informatics [if time allows]
-- Utilizing pattern search and sequence alignment to parse unstructured clinical notes and social media data
-- Modeling token sequences and handling missing/noisy data fields
-- Decoding optimal hidden states using the Viterbi Algorithm over sequence models
-
 ---
 
 ## Module 4: Intractability & Advanced Paradigms [if time allows]
@@ -134,3 +129,11 @@ description: Course schedule and modules for CS 3212.
 - Designing Approximation Algorithms with verifiable performance guarantees to cope with hard problems
 - Understanding the difference between Las Vegas and Monte Carlo randomized algorithms
 - Course synthesis and algorithmic paradigm selection matrix
+
+---
+
+## Special Topic — Algorithms in Natural Language Processing & Health Informatics [if time allows]
+
+- Utilizing pattern search and sequence alignment to parse unstructured clinical notes and social media data
+- Modeling token sequences and handling missing/noisy data fields
+- Decoding optimal hidden states using the Viterbi Algorithm over sequence models
