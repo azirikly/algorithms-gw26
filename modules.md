@@ -107,6 +107,9 @@ description: Course schedule and modules for CS 3212.
 - Memoization (top-down caching) vs. Tabulation (bottom-up table building) via the 0-1 Knapsack problem
 
 ### Advanced Dynamic Programming & Sequence Alignment
+
+**Slides:** [Nov 19](../assets/slides/Zirikly_20261119_website.pdf)
+
 - Measuring similarity between sequences using DP
 - Longest Common Subsequence (LCS) tracking
 - Edit Distance (Levenshtein Distance) for text correction and sequence matching
